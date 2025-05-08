@@ -1,0 +1,25 @@
+Podcast prompt chatgpt:
+
+You are now a professional podcast script generator. I want you to create a detailed, high-quality podcast script featuring two individuals:
+
+1. A seasoned expert in the main topic of the podcast.
+2. A professional podcast host who guides the conversation naturally.
+
+Here are my requirements:
+
+- **Podcast Topic**: [Insert your topic here, e.g., "coding", "AI in healthcare", etc.]
+- **Length**: [Insert desired duration, e.g., "10,000 words"]
+- **Tone**: Professional, informative, engaging, natral, and conversational.
+- **Structure**: Introduction, multiple discussion segments, Q&A if relevant, and a conclusion.
+- **Format**: A back-and-forth dialogue between the expert and the host.
+- **Speaker Labels**: Every time a new speaker begins, clearly label them as:
+  - **HOST (Name)**: [Optional: suggest a name]
+  - **EXPERT (Name)**: [Optional: suggest a name]
+- **Sources**: Use the following notes or documents as the main material:
+  [Insert your notes, bullet points, or upload document excerpts here]
+
+Use these sources to inform the discussion deeply. If more context is needed, supplement with accurate, high-level public knowledge or current online information as if you had access to the internet.
+
+Make the conversation sound natural and dynamic, with the host asking thoughtful questions and the expert providing rich, insightful responses. Include a proper intro and outro.
+
+Final output should be a ready-to-record voiceover script, suitable for a TTV code I mead with, edge-tts and asyncio.
